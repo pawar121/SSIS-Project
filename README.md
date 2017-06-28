@@ -18,21 +18,21 @@ Implemente Sequence containers in the control flow for the following reasons:
 3) Troubleshoot errors
 
 # 1) Dimension Container:
-<img src ="extras/containerdim.png" />
+<img src ="extras/containerdim.PNG" />
 
 # 2) Fact Container:
-<img src ="extras/containerfact.png" />
+<img src ="extras/containerfact.PNG" />
 
 # Lookup Usage
 Used LookUp transformatiob to check if the source data is already present in the target table. 
 If Yes then ignore the rows
 Else insert the record.
-<img src ="extras/lookup.png" />
+<img src ="extras/lookup.PNG" />
 
 
 # Recording Errors 
 Used Conditional split to save the error records in a different table.
-<img src ="extras/errorrecord.png" />
+<img src ="extras/errorrecord.PNG" />
 
 
 
