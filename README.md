@@ -18,10 +18,10 @@ Implemente Sequence containers in the control flow for the following reasons:
 3) Troubleshoot errors
 
 # 1) Dimension Container:
-<img src ="extras/snap1.png" />
+<img src ="extras/containerdim.png" />
 
 # 2) Fact Container:
-<img src ="extras/snap1.png" />
+<img src ="extras/containerfact.png" />
 
 # Lookup Usage
 Used LookUp transformatiob to check if the source data is already present in the target table. 
