@@ -34,6 +34,12 @@ Else insert the record.
 Used Conditional split to save the error records in a different table.
 <img src ="extras/errorrecord.PNG" />
 
+# Challenges Faced
+- Metadata errors between source and destination
+- Parallelization between data flows 
+- Error handling – (Will use conditional split)
+- Updating the jobs – (had to update the entire hierarchy of merge joins)
+- Memory distribution for parallel jobs
 
 
 
